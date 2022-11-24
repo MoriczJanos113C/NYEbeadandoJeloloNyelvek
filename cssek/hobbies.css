@@ -1,0 +1,56 @@
+body{
+    background-image:url("../kepek/hatter.jpg");
+    font-family: fantasy;
+    background-repeat: no-repeat;
+    background-size: fixed;
+    padding: 30px;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 30px;
+    border: 3px solid;
+    border-radius: 20px;
+    background: rgba(51, 170, 154, 0.452);
+    margin:20px;
+}
+
+.inlineba {
+    display: inline;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+img{
+    width: 20%;
+    height: 20%;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+iframe{
+    margin: 20px;
+    
+}
+
+.kozepreVideo{
+    text-align: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+a{
+    color: whitesmoke;
+}
+
+a:hover{
+    color: grey;
+}
