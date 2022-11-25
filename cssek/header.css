@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    text-align: right;
+    font-family: fantasy;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    float: inline;
+}
+  
+
+.gomb {
+    background-color: grey;
+    border: 5px solid;
+    border-radius: 20%;
+    height: 40px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.gomb:hover{
+    color: aqua;
+}
+
+.kilepes {
+    background-color: red;
+    border: 5px solid;
+    border-radius: 20%;
+    height: 40px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.kilepes:hover {
+    color: green;
+}
